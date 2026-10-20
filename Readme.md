@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Matrix Cyber Terminal Typing SVG (Fixed width so text never cuts off) -->
+<!-- Animated Matrix Cyber Terminal Typing SVG -->
 <a href="https://github.com/nycure">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=00FF66&background=05050500&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=55&lines=%5B+SYSTEM_BREACH+DETECTED+%2F%2F+NODE%3A+NYCURE+%5D;WAKE+UP%2C+OPERATOR...;INITIALIZING+NEURAL+PIPELINES...;FOLLOW+THE+WHITE+RABBIT." alt="Matrix Terminal Header" />
 </a>
@@ -25,16 +25,16 @@
 
 ### 📡 `root@zion:~# cat /proc/identity`
 
-```diff
+~~~diff
 + ident:
 +   operator: "Nitin Yadav"
 +   handle: "nycure"
 +   class: "Software Engineer // AI & Backend Systems"
 +   directive: "Engineering automated AI pipelines, RAG architectures & full-stack systems"
 +   subroutine: "Multi-agent learning engines & high-throughput API backends"
-+   uplink_linkedin: "[linkedin.com/in/me-nitinyadav](https://linkedin.com/in/me-nitinyadav)"
-+   uplink_github: "[github.com/nycure](https://github.com/nycure)"
-```
++   uplink_linkedin: "in/me-nitinyadav"
++   uplink_github: "nycure [ROOT_NODE]"
+~~~
 
 ---
 
@@ -67,12 +67,12 @@
 
 ### 🧬 `root@zion:~# ./scan_subroutines.sh`
 
-```diff
+~~~diff
 + [ACTIVE]    ./AI-Pathfinder    :: Multi-agent learning roadmap generator
 + [DEPLOYED]  ./Analytics-Drive  :: Automated AI content & publishing pipeline
 + [ONLINE]    ./Krishi-Sarthi    :: Offline-first AI farming & soil analyzer
 + [STABLE]    ./SimpleKhata      :: Reactive offline merchant ledger
-```
+~~~
 
 ---
 
@@ -87,9 +87,9 @@
   <img src="https://streak-stats.demolab.com?user=nycure&theme=dark&background=050505&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&dates=00AA44" alt="GitHub Streak" />
 </div>
 
-<!-- Live Matrix Terminal Contribution Graph -->
+<!-- Matrix Contribution Heatmap Grid -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nycure&bg_color=050505&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=false&border_color=00FF66" alt="nycure Matrix Activity Graph" />
+  <img src="https://ghchart.rshah.org/00FF66/nycure" alt="nycure Matrix Contribution Grid" />
 </div>
 
 ---
