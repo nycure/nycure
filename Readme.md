@@ -23,7 +23,7 @@
 
 ---
 
-### 📡 `root@zion:~# cat /proc/identity`
+### `[0x01] root@zion:~# cat /proc/identity`
 
 ~~~diff
 + ident:
@@ -38,7 +38,7 @@
 
 ---
 
-### ⚡ `root@zion:~# dump_stack --verbose`
+### `[0x02] root@zion:~# dump_stack --verbose`
 
 #### `[ CORE_RUNTIMES & COMPILERS ]`
 ![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00FF66&labelColor=050505&color=00FF66)
@@ -65,7 +65,7 @@
 
 ---
 
-### 🧬 `root@zion:~# ./scan_subroutines.sh`
+### `[0x03] root@zion:~# ./scan_subroutines.sh`
 
 ~~~diff
 + [ACTIVE]    ./AI-Pathfinder    :: Multi-agent learning roadmap generator
@@ -76,7 +76,7 @@
 
 ---
 
-### 📊 `root@zion:~# watch -n 1 /proc/telemetry`
+### `[0x04] root@zion:~# watch -n 1 /proc/telemetry`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nycure&show_icons=true&title_color=00FF66&icon_color=00FF66&text_color=00FF66&bg_color=050505&border_color=00FF66&hide_border=false" alt="nycure GitHub Stats" />
