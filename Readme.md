@@ -76,7 +76,19 @@
 
 ---
 
-### `[0x04] root@zion:~# watch -n 1 /proc/telemetry`
+### `[0x04] root@zion:~# ls -la /opt/extensions`
+
+| `MODULE_ID` | `EXTENSION_PAYLOAD` | `TARGET_ENV` | `ACCESS_NODE` |
+| :--- | :--- | :--- | :---: |
+| `ext_0x01` | **[AI-Assisted Recruitment Coding Assessment Simulator](https://marketplace.visualstudio.com/items?itemName=nycure.ai-coding-assessment-simulator&ssr=false#overview)**<br>`> Interactive AI coding assessment simulator with step-by-step problem breakdown & guided code synthesis` | `VS_Code / IDE` | <a href="https://marketplace.visualstudio.com/items?itemName=nycure.ai-coding-assessment-simulator&ssr=false#overview"><img src="https://img.shields.io/badge/MARKETPLACE-00FF66?style=flat-square&logo=gnubash&logoColor=050505" alt="VS Code Marketplace" /></a> |
+
+<!-- Template row to add future extensions:
+| `ext_0x02` | **[Extension_Name](https://your-link-here)**<br>`> Short description of your extension` | `Browser / IDE` | <a href="https://your-link-here"><img src="https://img.shields.io/badge/UPLINK-00FF66?style=flat-square&logo=gnubash&logoColor=050505" alt="Uplink" /></a> |
+-->
+
+---
+
+### `[0x05] root@zion:~# watch -n 1 /proc/telemetry`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nycure&show_icons=true&title_color=00FF66&icon_color=00FF66&text_color=00FF66&bg_color=050505&border_color=00FF66&hide_border=false" alt="nycure GitHub Stats" />
